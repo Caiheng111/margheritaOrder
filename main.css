@@ -12,6 +12,15 @@ body,h2,input{
     color: white;
   }
 
+  @media (max-width:996px){
+
+
+    .table-side {
+       visibility: hidden;
+    }
+  }
+   
+
 
   
   /* THIS IS CONFIRM BOX */
